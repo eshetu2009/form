@@ -1,0 +1,45 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: normal;
+}
+
+.App{
+    background-color: orange;
+    width: 980px;
+    height: 700px;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.App h1 {
+    font-size: 25px;
+
+}
+
+h1{
+padding-top: 30px;
+}
+
+.login-wrap{
+    font-weight: 800;
+    font-size: 35px;
+    padding: 15px;
+    
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 350px;
+
+}
+
+button{
+padding: 15px;
+width: 150px;
+border: 1px solid black;
+border-radius: 25px;
+font-size: 20px;
+background-color: black;
+color: white;
+}
